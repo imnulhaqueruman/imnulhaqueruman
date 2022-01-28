@@ -3,7 +3,7 @@
 ### I'm a 😍😍 JavaScript & Python Developer  😍😍!
 
 - 👀 I’m interested in Full-Stack Developer | Machine Learning | Computer Vision | IoT
-- 🌱 I’m currently learning Node.js, Redux.js 
+- 🌱 I’m currently learning Machine Learning and TensorFlow
 ### Connect with me:
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/imnul-haque-ruman-5535b11b0/) 
